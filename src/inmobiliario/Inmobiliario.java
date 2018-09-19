@@ -16,6 +16,17 @@ public class Inmobiliario {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        do {
+            short opcion=0;
+            switch (opcion) {
+                case 1:
+                        
+                    break;
+                default:
+                    throw new AssertionError();
+            }
+        } while (true);
+        
     }
     
 }
