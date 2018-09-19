@@ -10,23 +10,29 @@ package inmobiliario;
  * @author ESTUDIANTE2502
  */
 public class Inmobiliario {
-        
+
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
         do {
-            short opcion=0;
+            short opcion = 0;
             switch (opcion) {
                 case 1:
-                        
+
+                    break;
+                case 2:
+
+                    break;
+                    case 3:
+
                     break;
                 default:
                     throw new AssertionError();
             }
         } while (true);
-        
+
     }
-    
+
 }
